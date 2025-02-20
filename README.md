@@ -41,7 +41,7 @@ npm install
 ```
 
 ```bash
-npx nodemon index.js
+npx nodemon server.js
 ```
 
 3. Access website at : http://localhost:5001
